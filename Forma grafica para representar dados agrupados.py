@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-
 #Formatação da figura
 get_ipython().run_line_magic('matplotlib', 'inline')
 import pandas as pd
